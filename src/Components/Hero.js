@@ -23,7 +23,7 @@ function Hero() {
       </div>
       <div className="hero lg:block hidden">
         <img
-          src="/images/main.JPG"
+          src="/images/main.svg"
           alt="Main"
           className="w-full h-full object-contain"
         />
