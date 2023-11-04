@@ -31,7 +31,7 @@ const TopNfts = [
     id: "5",
     name: "3D Abstract Hand",
     price: "XRP 11.23",
-    image: "/images/5.jpeg",
+    image: "/images/5.jpg",
   },
   {
     id: "6",
