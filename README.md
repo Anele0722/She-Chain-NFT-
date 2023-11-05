@@ -43,7 +43,7 @@ To mint and list NFTs:
 - Provide the required NFT details and select an image.
 - Confirm the minting process.
 
-#Your NFT is now listed for sale in the marketplace.
+Your NFT is now listed for sale in the marketplace.
 
 
 ## Buying and Transferring NFTs
