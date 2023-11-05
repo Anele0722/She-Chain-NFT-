@@ -28,7 +28,8 @@ This project is a  NFT marketplace built on the XRP Ledger. It allows users to m
 
 
 ## Usage
-- Connecting Your XRP Wallet
+ Connecting Your XRP Wallet
+ 
 - To connect your XRP wallet:
 - Click the "Connect Wallet" button in the header.
 - Follow the prompts to connect your XRP wallet.
