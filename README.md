@@ -9,11 +9,9 @@ This project is a  NFT marketplace built on the XRP Ledger. It allows users to m
 ## Features
 
 - Connect your XRP wallet.
-- Mint and list NFTs for sale.
+- Mint NFTs.
 - Buy and transfer NFTs.
 - Interact with the XRP Ledger.
-- Store NFT metadata using IPFS.
-- User account management.
 
 ## Installation
 
@@ -24,10 +22,55 @@ This project is a  NFT marketplace built on the XRP Ledger. It allows users to m
    cd nft-marketplace
 
    
-1.Install dependencies:
-   
-   ```bash
-   npm install
+-Install dependencies:
+-Start the development server:
+-Access the application in your web browser at http://localhost:3000.
+
+
+## Usage
+-Connecting Your XRP Wallet
+-To connect your XRP wallet:
+-Click the "Connect Wallet" button in the header.
+-Follow the prompts to connect your XRP wallet.
+
+You can now perform wallet-related actions within the app.
+
+## Minting and Listing NFTs
+To mint and list NFTs:
+
+-Connect your XRP wallet.
+-Click the "Mint" option.
+-Provide the required NFT details and select an image.
+-Confirm the minting process.
+
+Your NFT is now listed for sale in the marketplace.
+
+
+## Buying and Transferring NFTs
+To buy and transfer NFTs:
+
+-Connect your XRP wallet.
+-Explore the NFT marketplace.
+-Select an NFT you want to purchase.
+-Click "Buy NFT" and follow the payment process.
+
+The NFT is transferred to your wallet.
+
+License
+This project is licensed under the MIT License.
+
+Contributors
+Feel free to contribute, report issues, or suggest improvements!
+
+License: MIT
+
+
+
+
+
+
+
+
 
 
 	
